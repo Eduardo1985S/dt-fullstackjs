@@ -235,7 +235,3 @@ npm run test:watch
 - Desenvolvedor Frontend
 - DBA
 - Líder de Projeto
-
----
-
-Desenvolvido como parte do desafio técnico SENAI
