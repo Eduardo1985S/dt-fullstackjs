@@ -229,10 +229,6 @@ npm run test:watch
 - `SENAI-0002 Criar API para gerenciar cursos (GET, POST, PUT, DELETE)`
 - `SENAI-0003 Criar API para gerenciar alunos (GET, POST, PUT, DELETE)`
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
-
 ## 👥 Contribuidores
 
 - Desenvolvedor Backend
